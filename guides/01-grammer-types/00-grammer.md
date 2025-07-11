@@ -10,11 +10,14 @@ to execute from terminal `node filename.ext`
 
 # 2.Comments
 - single line comment
-``` // single line comment ```
+``` 
+// single line comment 
+```
+
 - multi-line comment
 ``` /* multi-line 
     comment
-    ```
+```
 
 # 3.Declarations
 -- 3 types: var, let, const
