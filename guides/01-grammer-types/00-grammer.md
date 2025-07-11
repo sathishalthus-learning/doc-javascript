@@ -1,4 +1,4 @@
-to execute from terminal `node filename.ext`
+**to execute from terminal `node filename.ext`**
 
 # 1. Basics
 - case-sensitive
