@@ -8,6 +8,6 @@
 
 // string object
 
-
+// can call methods diectly on the string object
 
 

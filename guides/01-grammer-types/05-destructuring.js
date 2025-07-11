@@ -5,3 +5,9 @@
 // assignment pattern declared variables
 
 // regex destructuring
+
+// from itereables
+
+// object destructuring
+
+// for of destructuring
