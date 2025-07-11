@@ -46,15 +46,15 @@ _ objects, arrays are reassignables
 
 #### 4. Datatypes and Structures
 ##### Datatypes
-|_ *primitives*<br/>
-    |_ bookean - true/false<br/>
-    |_ number - any number<br/>
-    |_ bigInt - integer for arbitary precision<br/>
-    |_ string - sequence of characters<br/>
-    |_ symbol - whose instances are unique and immutable<br/>
-    |_ null - donoing null value<br/>
-    |_ undefined - whose value si not defined<br/>
-|_ *object*<br/>
+|- **primitives**<br/>
+    - bookean - true/false<br/>
+    - number - any number<br/>
+    - bigInt - integer for arbitary precision<br/>
+    - string - sequence of characters<br/>
+    - symbol - whose instances are unique and immutable<br/>
+    - null - donoing null value<br/>
+    - undefined - whose value si not defined<br/>
+|- **object**<br/>
 
 ##### Datatype Conversion
 - JS is a dynamically typed language, means dont have to specify datatype, auotmatically converted as needed during execution
