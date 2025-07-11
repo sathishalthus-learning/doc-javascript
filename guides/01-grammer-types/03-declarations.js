@@ -1,8 +1,8 @@
 // declaration, variables, scope
 console.clear()
-console.log("=====================================")
-console.log("declarations, variables, scope")
-console.log("=====================================")
+console.log("------------------------------------")
+console.log("declarations")
+console.log("------------------------------------")
 
 // 1.
 // var

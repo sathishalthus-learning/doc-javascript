@@ -1,11 +1,14 @@
 console.clear()
 console.log("------------------------------------")
-console.log("basics")
+console.log("comments")
 console.log("------------------------------------")
 
-const Früh = "foo";
-const früh = "bar";
-console.log(früh);
-console.log(Früh);
+// single line commnet
+
+/* multi
+    line
+    comment
+    */
+
 
 console.log("------------------------------------")
