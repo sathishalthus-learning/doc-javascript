@@ -1,6 +1,6 @@
 **to execute from terminal `node filename.ext`**
 
-### 1. Basics
+##### 1. Basics
 - case-sensitive language
 - uses unicode-characterset
 - syntax is derived from other languages
