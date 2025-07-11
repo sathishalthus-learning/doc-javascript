@@ -24,23 +24,23 @@
 
 #### 3. Declarations
 - 3 types: var, let, const
-#### variables
+##### variables
 - names for values in the applications, naming rules (letters,_,$,0-9)
-### declaring variables
+##### declaring variables
 - using var, let, const
-### initializing variables
-### variable scope
+##### initializing variables
+##### variable scope
 - global scope,
 - module scope
 - function scope
 - block scope - between curly braces
 - var declared are not block scoped
 - let, const are block scoped generally
-### varibale hoisting
+##### varibale hoisting
 ---- var declare variable declarations are hoisted
-### global variables
+##### global variables
 ---- window, globalThis
-### Constants
+##### Constants
 ---- read-only values
 ---- objects, arrays are reassignables
 
