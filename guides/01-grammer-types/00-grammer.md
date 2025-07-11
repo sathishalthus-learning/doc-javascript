@@ -76,5 +76,17 @@ _ objects, arrays are reassignables
 - true, false
 ##### Numeric Literals
 - integer literals
-> floating point literal
+- floating point literal
+
+##### Object literals
+- zero or more pair of property and associated values
+
+##### RegEx Literals
+- patterns enclosed within slashes(/..../)
+##### String Literals
+- zero or more characters
+- enclosed in "", '', ``
+- `` - template literal
+
+
 
