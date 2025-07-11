@@ -15,8 +15,10 @@ to execute from terminal `node filename.ext`
 ```
 
 - multi-line comment
-``` /* multi-line 
+``` 
+    /* multi-line 
     comment
+    */
 ```
 
 # 3.Declarations
