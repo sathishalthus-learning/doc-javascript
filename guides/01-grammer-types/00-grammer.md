@@ -37,12 +37,32 @@
 - var declared are not block scoped
 - let, const are block scoped generally
 ##### varibale hoisting
----- var declare variable declarations are hoisted
+- var declare variable declarations are hoisted
 ##### global variables
----- window, globalThis
+- window, globalThis
 ##### Constants
----- read-only values
----- objects, arrays are reassignables
+* read-only values
+_ objects, arrays are reassignables
 
 #### 4. Datatypes and Structures
+##### Datatypes
+|_ *primitives*
+    |_ bookean - true/false
+    |_ number - any number
+    |_ bigInt - integer for arbitary precision
+    |_ string - sequence of characters
+    |_ symbol - whose instances are unique and immutable
+    |_ null - donoing null value
+    |_ undefined - whose value si not defined
+|_ *object*
 
+##### Datatype Conversion
+- JS is a dynamically typed language, means dont have to specify datatype, auotmatically converted as needed during execution
+
+##### Numbers and + Operator
+- adds numbers and concats when string as operand
+
+##### Strings to Numbers
+- *parseInt()* - returns whole numbers
+- *parseFloat()* - returns decimal numbers
+- *Number() - retunrs number
