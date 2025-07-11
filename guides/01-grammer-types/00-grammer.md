@@ -1,6 +1,6 @@
 **to execute from terminal `node filename.ext`**
 
-##### 1. Basics
+#### 1. Basics
 - case-sensitive language
 - uses unicode-characterset
 - syntax is derived from other languages
@@ -8,7 +8,7 @@
 - read from left to right, 
 - whitespaces (spaces, tab, newline)
 
-### 2. Comments
+#### 2. Comments
 - single line comment
         ``` 
         // single line comment 
@@ -22,7 +22,7 @@
         */
     ```
 
-### 3. Declarations
+#### 3. Declarations
 - 3 types: var, let, const
 #### variables
 - names for values in the applications, naming rules (letters,_,$,0-9)
@@ -44,5 +44,5 @@
 ---- read-only values
 ---- objects, arrays are reassignables
 
-## 4. Datatypes and Structures
+#### 4. Datatypes and Structures
 
