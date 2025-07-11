@@ -47,7 +47,7 @@ _ objects, arrays are reassignables
 #### 4. Datatypes and Structures
 ##### Datatypes
 |- **primitives**<br/>
-    - bookean - true/false<br/>
+    - boolean - true/false<br/>
     - number - any number<br/>
     - bigInt - integer for arbitary precision<br/>
     - string - sequence of characters<br/>
@@ -66,3 +66,15 @@ _ objects, arrays are reassignables
 - *parseInt()* - returns whole numbers
 - *parseFloat()* - returns decimal numbers
 - *Number() - retunrs number
+
+#### 5. Literals
+##### Array Literals
+- enclosed in [] brackets
+- length property
+- extra commas in literals
+##### Boolean Literals
+- true, false
+##### Numeric Literals
+- integer literals
+> floating point literal
+

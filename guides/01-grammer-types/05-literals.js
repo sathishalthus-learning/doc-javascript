@@ -1,4 +1,5 @@
 // literals
+console.log('----literals------------------------')
 
 // array literals
 const array1 = [1,2,3,4];
