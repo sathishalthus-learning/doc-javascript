@@ -3,7 +3,7 @@
 > - set of statements to perform a task
 > - might return a value
 
-#### defining function
+#### Defining Function
 > * consist of keyword **function** 
 > * followed by **name** of the function
 > * list of parameters inside parantheses
@@ -12,5 +12,5 @@
 > * when **object** passed , object's properties are changed that are visible outside.
 > * when **array** is passed , changes are visible outside.
 
-#### function expressions
+#### Function Expressions
 > + 
