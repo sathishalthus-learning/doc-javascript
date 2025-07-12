@@ -1,3 +1,6 @@
+console.log('-------------------conditional statements---------------')
+
+
 // conditional statements
 // falsy values : false, undefined, null, 0, NaN, ""
 
@@ -25,4 +28,4 @@ switch ("") {
       console.log(`Sorry, we are out .`);
   }
 
-  
+  console.log('-------------------------------------------------------')
