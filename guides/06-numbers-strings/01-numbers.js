@@ -45,6 +45,15 @@ console.log(Number.parseFloat('145.45678'));
 // toFixed
 // toPrecision
 
+// math object
+console.log(Math.PI);
+console.log(Math.abs(-15.75));
 
+// Big Ints
+const b1 = 123n;
+console.log(b1);
+
+const b2 = BigInt(-12345);
+console.log(b2);
 
 

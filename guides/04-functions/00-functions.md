@@ -37,3 +37,12 @@
 #### Function Parameters
 > default parameters, rest parameters
 ##### Default Parameter
+- when no value provided for a parameter functions default to undefined.
+- other way to handle is to supply a default parameter.
+
+##### Rest Parameters
+- allows to represent indefinite number of arguments as an array.
+
+#### Arrow Functions
+> - a fat arrow, shorter than function expression
+> - does not have its own this, arguements, super

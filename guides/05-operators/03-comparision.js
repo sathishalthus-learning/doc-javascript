@@ -1,5 +1,8 @@
 // comaprision operators
 
+const var1 = 3;
+const var2 = 4;
+
 // equal, not equal
 3 == var1;
 3 != var1;
