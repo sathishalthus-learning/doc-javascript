@@ -10,7 +10,7 @@
     - use the index with []
 #### Populating array
     - pass index anf assign to value.
-##### Ierating Array
+##### Iterating Array
     - use a for loop, foreach
     - sparsed array dont print empty value
 ##### Array methods
@@ -29,5 +29,6 @@
 - put, get, has, delete, size, clear
 - weakmap - whose keys are objects/nonregistered symbols
 ### Sets
-- unique 
+- unique elements
+- add,has, delete, size, 
 
